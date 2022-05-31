@@ -1,0 +1,1 @@
+using github desktop is a lot easier than using git from command line
